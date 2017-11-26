@@ -11,10 +11,27 @@
             - [catagory](#catagory)
 
 <!-- /TOC -->
-###组件化方案
+##组件化方案
 - ctmediator: [CTMediator](https://github.com/casatwy/CTMediator)
 
-###UI
+##UI
+####ImagePicker
+- imagePicker: [TZImagePickerController(fork by Roy)](https://github.com/ruanqisevik/TZImagePickerController)
+
+####image
+- Asynchronous image downloader
+	- [SDWebImage](https://github.com/rs/SDWebImage)
+	- [YYWebImage](https://github.com/ibireme/YYWebImage)
+	- [Kingfisher](https://github.com/onevcat/Kingfisher)
+
+####slides
+- banner: 
+	- [FSPagerView](https://github.com/WenchaoD/FSPagerView)
+	- [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
+
+####pop-ups
+- alert: [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
+- hud: [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 
 ####drawer  
 - drawer: [drawer(侧边栏)](https://github.com/mutualmobile/MMDrawerController)  
