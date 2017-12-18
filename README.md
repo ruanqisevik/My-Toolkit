@@ -5,6 +5,9 @@
 - [my-development-tools](#my-development-tools)
   - [编辑器/IDE](#%E7%BC%96%E8%BE%91%E5%99%A8ide)
   - [Shell](#shell)
+  - [网络](#%E7%BD%91%E7%BB%9C)
+  - [科学上网](#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
+  - [服务端](#%E6%9C%8D%E5%8A%A1%E7%AB%AF)
   - [iOS](#ios)
     - [组件化方案](#%E7%BB%84%E4%BB%B6%E5%8C%96%E6%96%B9%E6%A1%88)
     - [UI](#ui)
@@ -33,6 +36,15 @@
 - [rename](https://github.com/adoyle-h/my-development-tools#%E7%BC%96%E8%BE%91%E5%99%A8ide)
 - [tmux](https://github.com/tmux/tmux)
 
+## 网络
+- [polipo](https://github.com/jech/polipo)
+
+## 科学上网
+- [V2Ray](https://github.com/v2ray/v2ray-core)
+
+## 服务端
+- [json-server](https://github.com/typicode/json-server)
+- [http-server](https://github.com/indexzero/http-server)
 
 ## iOS
 ### 组件化方案
