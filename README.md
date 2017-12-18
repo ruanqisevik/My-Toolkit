@@ -1,12 +1,12 @@
-#my-development-tools
+# my-development-tools
 
 <!-- TOC -->
 
 - [my-development-tools](#my-development-tools)
-  - [编辑器/IDE](#编辑器ide)
+  - [编辑器/IDE](#%E7%BC%96%E8%BE%91%E5%99%A8ide)
   - [Shell](#shell)
   - [iOS](#ios)
-    - [组件化方案](#组件化方案)
+    - [组件化方案](#%E7%BB%84%E4%BB%B6%E5%8C%96%E6%96%B9%E6%A1%88)
     - [UI](#ui)
       - [ImagePicker](#imagepicker)
       - [image](#image)
@@ -20,11 +20,11 @@
 
 <!-- /TOC -->
 
-##编辑器/IDE
+## 编辑器/IDE
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Xcode](https://developer.apple.com/xcode/)
 
-##Shell
+## Shell
 - [bash](http://tiswww.case.edu/php/chet/bash/bashtop.html)
 - [bash-completion](https://github.com/scop/bash-completion)
 - [bash-it](https://github.com/Bash-it/bash-it)
@@ -34,44 +34,44 @@
 - [tmux](https://github.com/tmux/tmux)
 
 
-##iOS
-###组件化方案
+## iOS
+### 组件化方案
 - ctmediator: [CTMediator](https://github.com/casatwy/CTMediator)
 
-###UI
-####ImagePicker
+### UI
+#### ImagePicker
 - imagePicker: [TZImagePickerController(fork by Roy)](https://github.com/ruanqisevik/TZImagePickerController)
 
-####image
+#### image
 - Asynchronous image downloader
 	- [SDWebImage](https://github.com/rs/SDWebImage)
 	- [YYWebImage](https://github.com/ibireme/YYWebImage)
 	- [Kingfisher](https://github.com/onevcat/Kingfisher)
 
-####slides
+#### slides
 - banner: 
 	- [FSPagerView](https://github.com/WenchaoD/FSPagerView)
 	- [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
 
-####pop-ups
+#### pop-ups
 - alert: [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages)
 - hud: [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 
-####drawer  
+#### drawer  
 - drawer: [drawer(侧边栏)](https://github.com/mutualmobile/MMDrawerController)  
 
-####layout
+#### layout
 - masonry: [Masonry](https://github.com/SnapKit/Masonry)
 - snapkit: [SnapKit](https://github.com/SnapKit/SnapKit)
 
-####string
+#### string
 - swift string extension: [SwiftString](https://github.com/amayne/SwiftString)
 - money string: [Money](https://github.com/danthorpe/Money)
 - TextAttribute: [TextAttributes](https://github.com/delba/TextAttributes)
 - coreText: [YYText](https://github.com/ibireme/YYText)
 
-####catagory
+#### catagory
 - libextobjc: [libextobjc](https://github.com/jspahrsummers/libextobjc)
 
-####other-resources
+#### other-resources
 - SomeGoodCustomView: [SomeGoodCustomView](https://github.com/banchichen/SomeGoodCustomView)
