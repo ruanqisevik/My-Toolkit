@@ -13,7 +13,7 @@
       - [layout](#layout)
       - [string](#string)
       - [catagory](#catagory)
-      - [other_resources](#other_resources)
+      - [other-resources](#other-resources)
 
 <!-- /TOC -->
 ##组件化方案
@@ -54,5 +54,5 @@
 ####catagory
 - libextobjc: [libextobjc](https://github.com/jspahrsummers/libextobjc)
 
-####other_resources
+####other-resources
 - SomeGoodCustomView: [SomeGoodCustomView](https://github.com/banchichen/SomeGoodCustomView)
