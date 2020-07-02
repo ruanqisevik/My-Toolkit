@@ -51,7 +51,6 @@ See the LICENSE file for the specific language governing permissions and limitat
 #### CLI
 
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli): 删除进程工具
-
 - [thefuck](https://github.com/nvbn/thefuck): 命令行纠错
 - [gotty](https://github.com/yudai/gotty): 将终端程序映射成 Web 服务
 - [mosh](https://github.com/mobile-shell/mosh): 自动重连的 ssh
@@ -59,7 +58,7 @@ See the LICENSE file for the specific language governing permissions and limitat
 - [taskbook](https://github.com/klaussinani/taskbook): shell 中的 todo list
 - [node-qrcode](https://github.com/soldair/node-qrcode): 命令行生成二维码
 - [pv](http://www.ivarch.com/programs/pv.shtml): 显示 linux 管道数据传输速度
-- [server]()
+- [server][]
 
 #### 配色
 
@@ -79,6 +78,7 @@ See the LICENSE file for the specific language governing permissions and limitat
 - [speed-test](https://github.com/sindresorhus/speed-test): speedtest 测速的终端应用
 
 #### 快速搭建服务
+
 <a name="server"></a>
 
 - [json-server](https://github.com/typicode/json-server): 快速搭建 HTTP RESTFul API Server
@@ -160,4 +160,4 @@ See the LICENSE file for the specific language governing permissions and limitat
 
 
 <!-- anchors -->
-[server]: #user-content-server
+[servers]: #user-content-servers
