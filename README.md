@@ -10,7 +10,7 @@ See the LICENSE file for the specific language governing permissions and limitat
 
 ## 说明
 
-ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ
+<!-- ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ -->
 
 - `Ⓜ` 表示 **MacOS 平台**；
 - `Ⓛ` 表示兼容 **Linux 平台**；
@@ -18,28 +18,7 @@ See the LICENSE file for the specific language governing permissions and limitat
 - `Ⓐ` 表示 **移动应用**；
 - `Ⓡ` 表示 **其他资源**；
 
-<!-- TOC -->
-
-- [my-development-tools(update in 2018.2.24)](#my-development-toolsupdate-in-2018224)
-  - [编辑器/IDE](#%E7%BC%96%E8%BE%91%E5%99%A8ide)
-  - [Shell](#shell)
-  - [网络](#%E7%BD%91%E7%BB%9C)
-  - [科学上网](#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91)
-  - [服务端](#%E6%9C%8D%E5%8A%A1%E7%AB%AF)
-  - [iOS](#ios)
-    - [组件化方案](#%E7%BB%84%E4%BB%B6%E5%8C%96%E6%96%B9%E6%A1%88)
-    - [UI](#ui)
-      - [ImagePicker](#imagepicker)
-      - [image](#image)
-      - [slides](#slides)
-      - [pop-ups](#pop-ups)
-      - [drawer](#drawer)
-      - [layout](#layout)
-      - [string](#string)
-      - [catagory](#catagory)
-      - [other-resources](#other-resources)
-
-<!-- /TOC -->
+<!-- TOC -->autoauto- [My Toolkit](#my-toolkit)auto    - [版权声明 (Copyright and License)](#版权声明-copyright-and-license)auto    - [说明](#说明)auto    - [编辑器/IDE](#编辑器ide)auto    - [CheatSheet](#cheatsheet)auto    - [Shell](#shell)auto            - [功能应用](#功能应用)auto            - [CLI](#cli)auto            - [配色](#配色)auto    - [网络](#网络)auto            - [代理](#代理)auto            - [测速](#测速)auto            - [快速搭建服务](#快速搭建服务)auto            - [抓包工具](#抓包工具)auto    - [科学上网](#科学上网)auto    - [CI/CD](#cicd)auto    - [Git 和版本控制](#git-和版本控制)auto    - [macOS 应用](#macos-应用)autoauto<!-- /TOC -->
 
 ## 编辑器/IDE
 - [Visual Studio Code](https://code.visualstudio.com/): 主力编辑器，我认为最好的开源编辑器
