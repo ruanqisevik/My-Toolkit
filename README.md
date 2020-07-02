@@ -47,6 +47,10 @@ See the LICENSE file for the specific language governing permissions and limitat
   - [the-tao-of-tmux](https://leanpub.com/the-tao-of-tmux/read): 详尽的 tmux 手册
   - [tpm](https://github.com/tmux-plugins/tpm): tmux plugin manager
 - [autoenv](https://github.com/inishchith/autoenv): 根据目录下.env 文件自动执行脚本cli
+- [imageMagick](https://imagemagick.org/index.php): 超强大的图像处理命令行工具
+- [tesseract](https://github.com/tesseract-ocr/tesseract): OCR 工具
+  - [tesseract.js](https://github.com/naptha/tesseract.js)
+- 
 
 #### CLI
 
@@ -95,6 +99,7 @@ See the LICENSE file for the specific language governing permissions and limitat
 ## 科学上网
 - [V2Ray](https://github.com/v2ray/v2ray-core)
   - [V2Ray-X](https://github.com/Cenmrev/V2RayX): macOS 下 V2Ray 客户端
+- [gfwlist](https://github.com/gfwlist/gfwlist)
 
 ## CI/CD
 
@@ -107,6 +112,50 @@ See the LICENSE file for the specific language governing permissions and limitat
 
 - [git-extras](https://github.com/tj/git-extras): git 命令扩展
 - [commitizen](https://github.com/commitizen/cz-cli): git commit 规范工具
+- [git-recall](https://github.com/Fakerr/git-recall): 交互式的 git log
+- [git-tips](https://github.com/git-tips/tips): git 命令技巧
+
+## 浏览器
+
+#### Chrome
+
+- [chrome-cli](https://github.com/prasmussen/chrome-cli): chrome 终端命令行工具
+
+#### 插件
+- [Extensions Manager](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc): Chrome 扩展管理器
+- [Tampermonkey](https://github.com/Tampermonkey/tampermonkey): 开源版油猴。开源前端脚本管理器。
+- [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif): Chrome 代理设置管理
+- [vimium](https://github.com/philc/vimium): vim 风格操作浏览器
+- [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko): 暂存标签页
+- [Checker Plus for Gmail](https://chrome.google.com/webstore/detail/checker-plus-for-gmail/oeopbcgkkoapgobdbedcemjljbihmemj): Gmail 邮件提醒
+- [Wikiwand](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj): 自动将 Wikipedia 的链接跳转到 Wikiwand
+- [AdBlock](http://getadblock.com/): 广告屏蔽插件
+- [The Great Suspender](https://github.com/deanoemcke/thegreatsuspender): 拯救你的内存被 Chrome 吃光
+- [tamperchrome](https://github.com/google/tamperchrome): 实时拦截并修改请求。不必依赖 Charles 这种代理服务器了
+- [Requestly](https://www.requestly.in/content/documentation/): 拦截修改 HTTP 请求，非常灵活好用！
+- [Chrono](http://www.chronodownloader.net/): 下载管理器
+- [smart-toc](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba): 根据页面生成 TOC
+- [JavaScript Errors Notifier](https://chrome.google.com/webstore/detail/javascript-errors-notifie/jafmfknfnkoekkdocjiaipcnmkklaajd): 页面错误检查
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc): JSON 文件格式化查看器
+- [ShowIp](https://chrome.google.com/webstore/detail/showip/agoljmemkbciolpigpabjfkagboolkcj)
+- [EditThisCookie](https://github.com/fcapano/Edit-This-Cookie)
+- [hn-special](https://github.com/gabrielecirulli/hn-special): 美化 Hacker News 的界面，交互体验做得非常棒，支持亮/暗色系。
+
+#### 主题
+- [Robot](https://chrome.google.com/webstore/detail/robot-theme-inspired-by-a/oeljdmeofcikjblcoehpmdnooimalbmj)
+- [High Contrast Colorful](https://chrome.google.com/webstore/detail/high-contrast-colorful/cdfdkmklcjlnnnlnplffpdiekfhkpbme?hl=zh-CN)
+- [Just Black](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab?hl=zh-CN)
+
+## 制图
+
+- [mermaid](https://github.com/mermaid-js/mermaid): 基于文本生成图的工具
+- [planuml](https://github.com/plantuml/plantuml): 代码生成 UML 或流程图
+- [draoio](https://github.com/jgraph/drawio): 非常好的前端绘图工具库
+- [p5.js](https://p5js.org/): processing JS 相关`Ⓡ`
+- [sketch](https://www.sketch.com/): sketch 太贵了
+- [iThoughtX](https://www.toketaware.com/): 思维导图工具
+- [krita](https://github.com/KDE/krita)
+- [pixelmator](https://www.pixelmator.com/mac/)
 
 ## macOS 应用
 以下应用都为 MacOS 应用，不特意标注 `Ⓜ` 标记
@@ -156,7 +205,15 @@ See the LICENSE file for the specific language governing permissions and limitat
 - [keycastr](https://github.com/keycastr/keycastr): 屏幕显示当前按下的快捷建
 - [command tab plus](https://noteifyapp.com/command-tab-plus/): Task Switcher 切换应用增强
   - [cmdtap](http://www.yingdev.com/projects/cmdtap)
+- [sketch](https://www.sketch.com/): sketch
 
+## Web 工具
+- [codelf](https://unbug.github.io/codelf/): 命名查询工具
+- [namelix](https://namelix.com/): 商业项目命名工具
+- [regexr](https://regexr.com/): 正则表达式测试工具
+- [regexper](https://regexper.com/): 正则表达式规则可视化工具
+- [repl](https://repl.it/languages): web 端 repl
+- [sed](https://sed.js.org/): sed
 
 <!-- anchors -->
 [servers]: #user-content-servers
