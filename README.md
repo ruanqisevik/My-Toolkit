@@ -18,7 +18,7 @@ See the LICENSE file for the specific language governing permissions and limitat
 - `Ⓐ` 表示 **移动应用**；
 - `Ⓡ` 表示 **其他资源**；
 
-<!-- TOC -->autoauto- [My Toolkit](#my-toolkit)auto    - [版权声明 (Copyright and License)](#版权声明-copyright-and-license)auto    - [说明](#说明)auto    - [编辑器/IDE](#编辑器ide)auto    - [CheatSheet](#cheatsheet)auto    - [Shell](#shell)auto            - [功能应用](#功能应用)auto            - [CLI](#cli)auto            - [配色](#配色)auto    - [网络](#网络)auto            - [代理](#代理)auto            - [测速](#测速)auto            - [快速搭建服务](#快速搭建服务)auto            - [抓包工具](#抓包工具)auto    - [科学上网](#科学上网)auto    - [CI/CD](#cicd)auto    - [Git 和版本控制](#git-和版本控制)auto    - [macOS 应用](#macos-应用)autoauto<!-- /TOC -->
+<!-- TOC -->autoauto- [My Toolkit](#my-toolkit)auto    - [版权声明 (Copyright and License)](#版权声明-copyright-and-license)auto    - [说明](#说明)auto    - [编辑器/IDE](#编辑器ide)auto    - [CheatSheet](#cheatsheet)auto    - [Shell](#shell)auto            - [功能应用](#功能应用)auto            - [CLI](#cli)auto            - [配色](#配色)auto    - [网络](#网络)auto            - [代理](#代理)auto            - [测速](#测速)auto            - [快速搭建服务](#快速搭建服务)auto            - [抓包工具](#抓包工具)auto    - [科学上网](#科学上网)auto    - [CI/CD](#cicd)auto    - [Git 和版本控制](#git-和版本控制)auto    - [浏览器](#浏览器)auto            - [Chrome](#chrome)auto            - [插件](#插件)auto            - [主题](#主题)auto    - [制图](#制图)auto    - [macOS 应用](#macos-应用)auto    - [Web 工具](#web-工具)autoauto<!-- /TOC -->
 
 ## 编辑器/IDE
 - [Visual Studio Code](https://code.visualstudio.com/): 主力编辑器，我认为最好的开源编辑器
