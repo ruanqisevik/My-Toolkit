@@ -58,7 +58,7 @@ See the LICENSE file for the specific language governing permissions and limitat
 - [taskbook](https://github.com/klaussinani/taskbook): shell 中的 todo list
 - [node-qrcode](https://github.com/soldair/node-qrcode): 命令行生成二维码
 - [pv](http://www.ivarch.com/programs/pv.shtml): 显示 linux 管道数据传输速度
-- [server][]
+- [servers][]
 
 #### 配色
 
@@ -79,7 +79,7 @@ See the LICENSE file for the specific language governing permissions and limitat
 
 #### 快速搭建服务
 
-<a name="server"></a>
+<a name="servers"></a>
 
 - [json-server](https://github.com/typicode/json-server): 快速搭建 HTTP RESTFul API Server
 - [http-server](https://github.com/http-party/http-server): 快速搭建 HTTP  Server
@@ -148,7 +148,6 @@ See the LICENSE file for the specific language governing permissions and limitat
 - [Navicat Premium](https://www.navicat.com/en/products): 数据库客户端
 - [Slack](https://slack.com/)
 - [WPS](https://www.wps.com/mac/)
-
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins): 快速查看插件
 - [pixave](http://www.littlehj.com/mac/): 素材管理工具
 - [sloth](https://github.com/sveinbjornt/Sloth): 进程管理
