@@ -8,6 +8,7 @@ Copyright (c) 2020-2026 Q.Roy. The project is licensed under the BSD 3-clause Li
 
 See the LICENSE file for the specific language governing permissions and limitations under the License.
 
+
 ## 说明
 
 <!-- ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ -->
@@ -18,7 +19,37 @@ See the LICENSE file for the specific language governing permissions and limitat
 - `Ⓐ` 表示 **移动应用**；
 - `Ⓡ` 表示 **其他资源**；
 
-<!-- TOC -->autoauto- [My Toolkit](#my-toolkit)auto    - [版权声明 (Copyright and License)](#版权声明-copyright-and-license)auto    - [说明](#说明)auto    - [编辑器/IDE](#编辑器ide)auto    - [CheatSheet](#cheatsheet)auto    - [Shell](#shell)auto            - [功能应用](#功能应用)auto            - [CLI](#cli)auto            - [配色](#配色)auto    - [网络](#网络)auto            - [代理](#代理)auto            - [测速](#测速)auto            - [快速搭建服务](#快速搭建服务)auto            - [抓包工具](#抓包工具)auto    - [科学上网](#科学上网)auto    - [CI/CD](#cicd)auto    - [Git 和版本控制](#git-和版本控制)auto    - [浏览器](#浏览器)auto            - [Chrome](#chrome)auto            - [插件](#插件)auto            - [主题](#主题)auto    - [制图](#制图)auto    - [macOS 应用](#macos-应用)auto    - [Web 工具](#web-工具)autoauto<!-- /TOC -->
+## TOC
+<!-- toc -->
+<details>
+  <summary>目录</summary>
+<!-- MarkdownTOC depth=2 GFM -->
+
+  - [编辑器/IDE](#编辑器ide)
+  - [CheatSheet](#cheatsheet)
+  - [Shell](#shell)
+      - [功能应用](#功能应用)
+      - [CLI](#cli)
+      - [配色](#配色)
+  - [网络](#网络)
+      - [代理](#代理)
+      - [测速](#测速)
+      - [快速搭建服务](#快速搭建服务)
+      - [抓包工具](#抓包工具)
+  - [科学上网](#科学上网)
+  - [CI/CD](#cicd)
+  - [Git 和版本控制](#git-和版本控制)
+  - [浏览器](#浏览器)
+      - [Chrome](#chrome)
+      - [插件](#插件)
+      - [主题](#主题)
+  - [制图](#制图)
+  - [macOS 应用](#macos-应用)
+  - [Web 工具](#web-工具)
+
+<!-- /MarkdownTOC -->
+</details>
+<!-- tocstop -->
 
 ## 编辑器/IDE
 - [Visual Studio Code](https://code.visualstudio.com/): 主力编辑器，我认为最好的开源编辑器
@@ -62,7 +93,7 @@ See the LICENSE file for the specific language governing permissions and limitat
 - [taskbook](https://github.com/klaussinani/taskbook): shell 中的 todo list
 - [node-qrcode](https://github.com/soldair/node-qrcode): 命令行生成二维码
 - [pv](http://www.ivarch.com/programs/pv.shtml): 显示 linux 管道数据传输速度
-- [servers][]
+<!-- - [servers][] -->
 
 #### 配色
 
@@ -83,7 +114,7 @@ See the LICENSE file for the specific language governing permissions and limitat
 
 #### 快速搭建服务
 
-<a name="servers"></a>
+<!-- <a name="servers"></a> -->
 
 - [json-server](https://github.com/typicode/json-server): 快速搭建 HTTP RESTFul API Server
 - [http-server](https://github.com/http-party/http-server): 快速搭建 HTTP  Server
@@ -216,4 +247,4 @@ See the LICENSE file for the specific language governing permissions and limitat
 - [sed](https://sed.js.org/): sed
 
 <!-- anchors -->
-[servers]: #user-content-servers
+<!-- [servers]: #user-content-servers -->
